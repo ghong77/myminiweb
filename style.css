@@ -1,0 +1,31 @@
+         nav {
+            background-color: #626262;
+         }
+         header {
+            background-color: olive;
+            text-align: center;
+         }
+         section {
+            background-color: rgb(235, 246, 200)
+         }
+         footer {
+            background-color: #626262;
+            text-align: center;
+         }
+         article {
+            background-color: rgb(244, 247, 250);
+         }
+         a {
+            color: white;
+         }
+         h1 {
+            color: white;
+         }
+         * {
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         }
+
+
+
+
+
